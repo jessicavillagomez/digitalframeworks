@@ -1,1 +1,7 @@
-
+# The first assignment
+I found this story on Axios visuals [this is a link] (https://www.axios.com/oklahoma-teachers-brace-themselves-6c21da6f-06ef-474c-a2e8-ca84e7d53828.html)detailing why teachers are protesting in Oklahoma. They compiled data of the cost of living in adjusted dollars from 2010-2016. The data includes states where salaries haven’t kept up with inflation, including in Oklahoma. The source is immediately in the bottom of the page and was compiled by the National Center for Education Statistics and The Council for Community and Economic Research. I liked this story because it’s short and straightforward in terms of content. Though I see the benefit in datasets being included in larger narratives, I like that this story is short and lets the data speak for itself. In minimizing the number of states in the dataset, it’s much more concentrated in its purpose.
+	Visually, I like how easy the graph is to read. In using contrasting purple and orange colors, readers can see much more clearly how many states have had pay decreases (shown in orange) as opposed to raises (shown in purple). The graph also has the interactive feature of popping up additional information with a reader hovers over the line representing the state. The graph shows a column of 2010 and 2016 with comparisons with both actual dollars and the cost of living adjusted. I thought that this feature was clear and easy to read through, but I wish the article had explained more thoroughly the difference between the two numbers and what makes the cost of living especially important to the walk outs. 
+Other points:
+* I like short stories
+* The arrows were visually appealing
+* I appreciate good sourcing 
